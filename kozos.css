@@ -2,3 +2,6 @@ body{
     background-color: aliceblue;
     color: #243058;
 }
+td{
+    text-align: center;
+}
